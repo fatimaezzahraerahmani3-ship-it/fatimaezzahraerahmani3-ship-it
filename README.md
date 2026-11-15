@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Fatima Ezzahra
 
-<!--
-**fatimaezzahraerahmani3-ship-it/fatimaezzahraerahmani3-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer | Learning & Building
 
-Here are some ideas to get you started:
+**Morocco**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  About Me
+I'm a Full Stack Developer in training.
+I love building complete websites, from the design to the database.
+I turn ideas into real working projects.
+
+### My Skills
+
+**Frontend:**
+- HTML / CSS
+- JavaScript
+- React
+
+**Backend:**
+- Node.js
+-  MySQL / SQL
+
+**Tools:**
+- Git / GitHub
+- VS Code
+
+
+### 📫 How to reach me
+- GitHub: fatimaezzahraerahmani3-ship-it
+
+---
+⭐ Thanks for visiting my profile!
